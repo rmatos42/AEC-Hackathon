@@ -6,16 +6,16 @@ import datetime
 
 old_vms = 0
 log = open("log.log", "a")
-i = 0.00
+i = 0
 
 while (1):    
     process = psutil.Process(int(sys.argv[1]))
     vms = process.memory_info().vms
     timing = datetime.datetime.now()
     diff_vms = vms - old_vms
-    percent_vms = float(diff_vms) / vms
+    percent_vms = (float(diff_vms) / vms) * 100
     if (i % 10 == 0):
-        print timing
+        print (timing)
     print ("vms: {0}".format(vms))
     print ("old_vms: {0}".format(old_vms))
     print ("diff_vms: {0}".format(diff_vms))
