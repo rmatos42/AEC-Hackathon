@@ -27,7 +27,7 @@ while (1):
     log.write("old_vms: {0}\n".format(old_vms))
     log.write("diff_vms: {0}\n".format(diff_vms))
     log.write("percent_vms: {0}%\n\n".format(percent_vms))
-    time.sleep(.1)
+    time.sleep(1)
     old_vms = vms
     i += 1
 
