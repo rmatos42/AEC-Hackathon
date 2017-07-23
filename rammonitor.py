@@ -9,6 +9,7 @@ log = open("log.log", "a")
 i = 0
 time_step = 1
 unresponsive = 0
+threshold = 0.09
 pid = 0
 for proc in psutil.process_iter():
 	if proc.name() == sys.argv[1]:
@@ -20,7 +21,7 @@ while (1):
     timing = datetime.datetime.now()
     diff_vms = vms - old_vms
     percent_vms = (float(diff_vms) / vms) * 100
-    if (percent_vms > 0.01 and i > 0):
+    if (percent_vms > threshold and i > 0):
         unresponsive += 1
     if (i % time_step == 0):
         print (timing)
