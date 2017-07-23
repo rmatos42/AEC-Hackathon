@@ -5,9 +5,8 @@ import time
 import datetime
 from subprocess import call
 old_vms = 0
-call(["rm", "-rf", "log.*"])
-log = open("log.log", "a")
-csv = open("log.csv", "a")
+log = open("log.log", "w")
+csv = open("log.csv", "w")
 csv.write("timestamp,percent_change,unresponsive_time,total_time\n")
 i = 0
 time_step = 1
