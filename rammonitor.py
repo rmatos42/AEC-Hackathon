@@ -16,8 +16,8 @@ pid = 0
 while pid == 0:
     print("waiting for program...")
     for proc in psutil.process_iter():
-	if proc.name() == sys.argv[1]:
-            pid = proc.pid
+		if proc.name() == sys.argv[1]:
+			pid = proc.pid
     time.sleep(1)
 while (1):
     process = psutil.Process(pid)
