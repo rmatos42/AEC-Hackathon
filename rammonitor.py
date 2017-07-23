@@ -1,4 +1,5 @@
 import os
+import socket
 import psutil
 import sys
 import time
@@ -7,7 +8,7 @@ from subprocess import call
 old_vms = 0
 log = open("log.log", "w")
 csv = open("log.csv", "w")
-csv.write("timestamp,percent_change,unresponsive_time,total_time\n")
+csv.write("hostname,timestamp,percent_change,unresponsive_time,total_time\n")
 i = 0
 time_step = 1
 unresponsive = 0
@@ -45,7 +46,7 @@ while (1):
 	log.write("percent_vms: {0}%\n\n".format(percent_vms))
 	log.write("total unresponsive seconds: {0}".format(unresponsive))
 	log.write("total seconds: {0}".format(i))
-	csv.write("{0},{1},{2},{3}\n".format(datetime.datetime.now(), percent_vms, unresponsive, i))
+	csv.write("{0},{1},{2},{3},{4}\n".format(socket.gethostname(), datetime.datetime.now(), percent_vms, unresponsive, i))
 	time.sleep(1)
 	old_vms = vms
 	i += 1
