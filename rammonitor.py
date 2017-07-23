@@ -15,7 +15,7 @@ unresponsive = 0
 threshold = 0.19
 pid = 0
 while pid == 0:
-    print "waiting for program..."
+    print("waiting for program...")
     for proc in psutil.process_iter():
 	if proc.name() == sys.argv[1]:
             pid = proc.pid
