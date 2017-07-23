@@ -9,7 +9,7 @@ log = open("log.log", "a")
 i = 0
 time_step = 1
 unresponsive = 0
-threshold = 0.09
+threshold = 0.19
 pid = 0
 for proc in psutil.process_iter():
 	if proc.name() == sys.argv[1]:
