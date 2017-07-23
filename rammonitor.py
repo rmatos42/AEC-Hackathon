@@ -19,14 +19,14 @@ while (1):
     print ("vms: {0}".format(vms))
     print ("old_vms: {0}".format(old_vms))
     print ("diff_vms: {0}".format(diff_vms))
-    print ("percent_vms: {0}".format(percent_vms))
+    print ("percent_vms: {0}%".format(percent_vms))
     print ("")
     if (i % 10 == 0):
         log.write("{0}\n".format(timing))
     log.write("vms: {0}\n".format(vms))
     log.write("old_vms: {0}\n".format(old_vms))
     log.write("diff_vms: {0}\n".format(diff_vms))
-    log.write("percent_vms: {0}\n\n".format(percent_vms))
+    log.write("percent_vms: {0}%\n\n".format(percent_vms))
     time.sleep(.1)
     old_vms = vms
     i += 1
