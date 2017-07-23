@@ -28,7 +28,7 @@ while (1):
     print ("old_vms: {0}".format(old_vms))
     print ("diff_vms: {0}".format(diff_vms))
     print ("percent_vms: {0}%".format(percent_vms))
-    print ("total unresponsive seconds: {0}%".format(unresponsive))
+    print ("total unresponsive seconds: {0}".format(unresponsive))
     print ("")
     if (i % time_step == 0):
         log.write("{0}\n".format(timing))
@@ -36,7 +36,7 @@ while (1):
     log.write("old_vms: {0}\n".format(old_vms))
     log.write("diff_vms: {0}\n".format(diff_vms))
     log.write("percent_vms: {0}%\n\n".format(percent_vms))
-    log.write("total unresponsive seconds: {0}%".format(unresponsive))
+    log.write("total unresponsive seconds: {0}".format(unresponsive))
     time.sleep(1)
     old_vms = vms
     i += 1
