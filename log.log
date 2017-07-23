@@ -370,4 +370,346 @@ old_vms: 3404959744
 diff_vms: -29937664
 percent_vms: -0.887036093109%
 
-total unresponsive seconds: 12%
+total unresponsive seconds: 12%2017-07-22 19:10:24.104815
+vms: 2511720448
+old_vms: 0
+diff_vms: 2511720448
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 19:10:25.107056
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 12017-07-22 19:10:26.109110
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 22017-07-22 19:10:27.113391
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 32017-07-22 19:10:28.119223
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 42017-07-22 19:10:29.121873
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 52017-07-22 19:10:30.125867
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 62017-07-22 19:10:31.129466
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 72017-07-22 19:10:32.135066
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 82017-07-22 19:10:33.140614
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 92017-07-22 19:10:34.143050
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 102017-07-22 19:10:35.145189
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 112017-07-22 19:10:36.148657
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 122017-07-22 19:10:37.150156
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 132017-07-22 19:10:38.153866
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 142017-07-22 19:10:39.159126
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 152017-07-22 19:10:40.164237
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 162017-07-22 19:10:41.169391
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 172017-07-22 19:10:42.174447
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 182017-07-22 19:10:43.178942
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 192017-07-22 19:10:44.184566
+vms: 2511720448
+old_vms: 2511720448
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 202017-07-22 20:11:16.485721
+vms: 3416719360
+old_vms: 0
+diff_vms: 3416719360
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 20:11:17.490951
+vms: 3416719360
+old_vms: 3416719360
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 12017-07-22 20:11:18.496335
+vms: 3416719360
+old_vms: 3416719360
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 22017-07-22 20:11:19.500779
+vms: 3417321472
+old_vms: 3416719360
+diff_vms: 602112
+percent_vms: 0.0176194134773%
+
+total unresponsive seconds: 0total seconds: 32017-07-22 20:11:20.502327
+vms: 3417321472
+old_vms: 3417321472
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 42017-07-22 20:11:21.506546
+vms: 3331493888
+old_vms: 3417321472
+diff_vms: -85827584
+percent_vms: -2.57624918086%
+
+total unresponsive seconds: 0total seconds: 52017-07-22 20:11:38.242449
+vms: 3146792960
+old_vms: 0
+diff_vms: 3146792960
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 20:11:39.247878
+vms: 3146805248
+old_vms: 3146792960
+diff_vms: 12288
+percent_vms: 0.000390491277076%
+
+total unresponsive seconds: 0total seconds: 12017-07-22 20:11:40.250129
+vms: 3146805248
+old_vms: 3146805248
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 22017-07-22 20:11:41.255727
+vms: 3146805248
+old_vms: 3146805248
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 32017-07-22 20:11:42.257887
+vms: 3146805248
+old_vms: 3146805248
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 42017-07-22 20:11:43.259655
+vms: 3144171520
+old_vms: 3146805248
+diff_vms: -2633728
+percent_vms: -0.0837654047576%
+
+total unresponsive seconds: 0total seconds: 52017-07-22 20:11:44.264743
+vms: 3144171520
+old_vms: 3144171520
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 62017-07-22 20:11:45.269881
+vms: 3144171520
+old_vms: 3144171520
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 72017-07-22 20:11:56.520913
+vms: 2613858304
+old_vms: 0
+diff_vms: 2613858304
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 20:11:57.521640
+vms: 3094347776
+old_vms: 2613858304
+diff_vms: 480489472
+percent_vms: 15.5279725093%
+
+total unresponsive seconds: 1total seconds: 12017-07-22 20:11:58.526187
+vms: 3148111872
+old_vms: 3094347776
+diff_vms: 53764096
+percent_vms: 1.7078203757%
+
+total unresponsive seconds: 2total seconds: 22017-07-22 20:11:59.526902
+vms: 3155062784
+old_vms: 3148111872
+diff_vms: 6950912
+percent_vms: 0.220309783858%
+
+total unresponsive seconds: 3total seconds: 32017-07-22 20:12:00.530640
+vms: 3155062784
+old_vms: 3155062784
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 3total seconds: 42017-07-22 20:12:01.535937
+vms: 3155165184
+old_vms: 3155062784
+diff_vms: 102400
+percent_vms: 0.00324547191758%
+
+total unresponsive seconds: 3total seconds: 52017-07-22 20:12:02.540954
+vms: 3157262336
+old_vms: 3155165184
+diff_vms: 2097152
+percent_vms: 0.0664231152441%
+
+total unresponsive seconds: 3total seconds: 62017-07-22 20:12:03.545218
+vms: 3155218432
+old_vms: 3157262336
+diff_vms: -2043904
+percent_vms: -0.0647785262431%
+
+total unresponsive seconds: 3total seconds: 72017-07-22 20:12:04.549129
+vms: 3155218432
+old_vms: 3155218432
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 3total seconds: 82017-07-22 20:12:32.049934
+vms: 3110629376
+old_vms: 0
+diff_vms: 3110629376
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 20:12:33.055656
+vms: 3110092800
+old_vms: 3110629376
+diff_vms: -536576
+percent_vms: -0.0172527327802%
+
+total unresponsive seconds: 0total seconds: 12017-07-22 20:12:34.061156
+vms: 3110092800
+old_vms: 3110092800
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 22017-07-22 20:12:35.063469
+vms: 3110092800
+old_vms: 3110092800
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0total seconds: 32017-07-22 20:12:36.063763
+vms: 3155329024
+old_vms: 3110092800
+diff_vms: 45236224
+percent_vms: 1.43364522863%
+
+total unresponsive seconds: 1total seconds: 42017-07-22 20:12:37.066315
+vms: 3154280448
+old_vms: 3155329024
+diff_vms: -1048576
+percent_vms: -0.033242954052%
+
+total unresponsive seconds: 1total seconds: 52017-07-22 20:12:38.070114
+vms: 3138002944
+old_vms: 3154280448
+diff_vms: -16277504
+percent_vms: -0.518721756814%
+
+total unresponsive seconds: 1total seconds: 62017-07-22 20:12:47.374409
+vms: 3130757120
+old_vms: 0
+diff_vms: 3130757120
+percent_vms: 100.0%
+
+total unresponsive seconds: 0total seconds: 02017-07-22 20:12:48.376936
+vms: 3148398592
+old_vms: 3130757120
+diff_vms: 17641472
+percent_vms: 0.560331593491%
+
+total unresponsive seconds: 1total seconds: 12017-07-22 20:12:49.377556
+vms: 3148533760
+old_vms: 3148398592
+diff_vms: 135168
+percent_vms: 0.00429304591608%
+
+total unresponsive seconds: 1total seconds: 22017-07-22 20:12:50.379638
+vms: 3147509760
+old_vms: 3148533760
+diff_vms: -1024000
+percent_vms: -0.0325336560672%
+
+total unresponsive seconds: 1total seconds: 32017-07-22 20:12:51.381318
+vms: 3147403264
+old_vms: 3147509760
+diff_vms: -106496
+percent_vms: -0.0033836147156%
+
+total unresponsive seconds: 1total seconds: 42017-07-22 20:12:52.386937
+vms: 3147403264
+old_vms: 3147403264
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 1total seconds: 5

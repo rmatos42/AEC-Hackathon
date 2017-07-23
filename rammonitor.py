@@ -3,7 +3,7 @@ import psutil
 import sys
 import time
 import datetime
-
+from subprocess import check_output
 old_vms = 0
 log = open("log.log", "a")
 i = 0
@@ -11,10 +11,12 @@ time_step = 1
 unresponsive = 0
 threshold = 0.19
 pid = 0
-for proc in psutil.process_iter():
+while pid == 0:
+    print "waiting for program..."
+    for proc in psutil.process_iter():
 	if proc.name() == sys.argv[1]:
-		pid = proc.pid
-
+            pid = proc.pid
+    time.sleep(1)
 while (1):
     process = psutil.Process(pid)
     vms = process.memory_info().vms
