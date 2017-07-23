@@ -1,0 +1,373 @@
+2017-07-22 18:52:19.526350
+vms: 3417116672
+old_vms: 0
+diff_vms: 3417116672
+percent_vms: 100.0%
+
+total unresponsive seconds: 0%2017-07-22 18:52:20.529040
+vms: 3417116672
+old_vms: 3417116672
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0%2017-07-22 18:52:21.530854
+vms: 3417116672
+old_vms: 3417116672
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0%2017-07-22 18:52:22.536155
+vms: 3417116672
+old_vms: 3417116672
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0%2017-07-22 18:52:23.536946
+vms: 3417116672
+old_vms: 3417116672
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 0%2017-07-22 18:52:24.542438
+vms: 3418189824
+old_vms: 3417116672
+diff_vms: 1073152
+percent_vms: 0.0313953307234%
+
+total unresponsive seconds: 1%2017-07-22 18:52:25.543519
+vms: 3441545216
+old_vms: 3418189824
+diff_vms: 23355392
+percent_vms: 0.67863097923%
+
+total unresponsive seconds: 2%2017-07-22 18:52:26.547685
+vms: 3496226816
+old_vms: 3441545216
+diff_vms: 54681600
+percent_vms: 1.56401752168%
+
+total unresponsive seconds: 3%2017-07-22 18:52:27.550027
+vms: 3496222720
+old_vms: 3496226816
+diff_vms: -4096
+percent_vms: -0.000117155007791%
+
+total unresponsive seconds: 3%2017-07-22 18:52:28.552907
+vms: 3500625920
+old_vms: 3496222720
+diff_vms: 4403200
+percent_vms: 0.125783219933%
+
+total unresponsive seconds: 4%2017-07-22 18:52:29.553947
+vms: 3499589632
+old_vms: 3500625920
+diff_vms: -1036288
+percent_vms: -0.0296117004841%
+
+total unresponsive seconds: 4%2017-07-22 18:52:30.555799
+vms: 3498541056
+old_vms: 3499589632
+diff_vms: -1048576
+percent_vms: -0.0299718077683%
+
+total unresponsive seconds: 4%2017-07-22 18:52:31.556293
+vms: 3492290560
+old_vms: 3498541056
+diff_vms: -6250496
+percent_vms: -0.178979838379%
+
+total unresponsive seconds: 4%2017-07-22 18:52:32.557823
+vms: 3492290560
+old_vms: 3492290560
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 4%2017-07-22 18:52:33.559775
+vms: 3492290560
+old_vms: 3492290560
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 4%2017-07-22 18:52:34.560414
+vms: 3494604800
+old_vms: 3492290560
+diff_vms: 2314240
+percent_vms: 0.0662232250125%
+
+total unresponsive seconds: 5%2017-07-22 18:52:35.561877
+vms: 3491930112
+old_vms: 3494604800
+diff_vms: -2674688
+percent_vms: -0.0765962637914%
+
+total unresponsive seconds: 5%2017-07-22 18:52:36.562270
+vms: 3493576704
+old_vms: 3491930112
+diff_vms: 1646592
+percent_vms: 0.0471319836234%
+
+total unresponsive seconds: 6%2017-07-22 18:52:37.564955
+vms: 3491168256
+old_vms: 3493576704
+diff_vms: -2408448
+percent_vms: -0.0689868784141%
+
+total unresponsive seconds: 6%2017-07-22 18:52:38.567174
+vms: 3492331520
+old_vms: 3491168256
+diff_vms: 1163264
+percent_vms: 0.033309094321%
+
+total unresponsive seconds: 7%2017-07-22 18:52:39.569355
+vms: 3491090432
+old_vms: 3492331520
+diff_vms: -1241088
+percent_vms: -0.035550153288%
+
+total unresponsive seconds: 7%2017-07-22 18:52:40.573031
+vms: 3490103296
+old_vms: 3491090432
+diff_vms: -987136
+percent_vms: -0.0282838620029%
+
+total unresponsive seconds: 7%2017-07-22 18:52:41.577169
+vms: 3489652736
+old_vms: 3490103296
+diff_vms: -450560
+percent_vms: -0.0129113133623%
+
+total unresponsive seconds: 7%2017-07-22 18:52:42.580316
+vms: 3490193408
+old_vms: 3489652736
+diff_vms: 540672
+percent_vms: 0.0154911758976%
+
+total unresponsive seconds: 8%2017-07-22 18:52:43.589646
+vms: 3498426368
+old_vms: 3490193408
+diff_vms: 8232960
+percent_vms: 0.235333236546%
+
+total unresponsive seconds: 9%2017-07-22 18:52:44.590055
+vms: 3489001472
+old_vms: 3498426368
+diff_vms: -9424896
+percent_vms: -0.270131614321%
+
+total unresponsive seconds: 9%2017-07-22 18:52:45.593315
+vms: 3489013760
+old_vms: 3489001472
+diff_vms: 12288
+percent_vms: 0.000352191216351%
+
+total unresponsive seconds: 9%2017-07-22 18:52:46.593616
+vms: 3493224448
+old_vms: 3489013760
+diff_vms: 4210688
+percent_vms: 0.12053871896%
+
+total unresponsive seconds: 10%2017-07-22 18:52:47.593971
+vms: 3493236736
+old_vms: 3493224448
+diff_vms: 12288
+percent_vms: 0.000351765452177%
+
+total unresponsive seconds: 10%2017-07-22 18:52:48.595673
+vms: 3488534528
+old_vms: 3493236736
+diff_vms: -4702208
+percent_vms: -0.134790352862%
+
+total unresponsive seconds: 10%2017-07-22 18:52:49.596087
+vms: 3488534528
+old_vms: 3488534528
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:50.597022
+vms: 3488534528
+old_vms: 3488534528
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:51.598468
+vms: 3488473088
+old_vms: 3488534528
+diff_vms: -61440
+percent_vms: -0.00176122900909%
+
+total unresponsive seconds: 10%2017-07-22 18:52:52.602876
+vms: 3488473088
+old_vms: 3488473088
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:53.604378
+vms: 3488473088
+old_vms: 3488473088
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:54.607313
+vms: 3487936512
+old_vms: 3488473088
+diff_vms: -536576
+percent_vms: -0.0153837662513%
+
+total unresponsive seconds: 10%2017-07-22 18:52:55.609132
+vms: 3487936512
+old_vms: 3487936512
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:56.611462
+vms: 3487936512
+old_vms: 3487936512
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 10%2017-07-22 18:52:57.615979
+vms: 3487412224
+old_vms: 3487936512
+diff_vms: -524288
+percent_vms: -0.0150337260503%
+
+total unresponsive seconds: 10%2017-07-22 18:52:58.619363
+vms: 3487391744
+old_vms: 3487412224
+diff_vms: -20480
+percent_vms: -0.000587258372543%
+
+total unresponsive seconds: 10%2017-07-22 18:52:59.624633
+vms: 3486867456
+old_vms: 3487391744
+diff_vms: -524288
+percent_vms: -0.0150360748327%
+
+total unresponsive seconds: 10%2017-07-22 18:53:00.627134
+vms: 3487391744
+old_vms: 3486867456
+diff_vms: 524288
+percent_vms: 0.0150338143371%
+
+total unresponsive seconds: 11%2017-07-22 18:53:01.627856
+vms: 3486867456
+old_vms: 3487391744
+diff_vms: -524288
+percent_vms: -0.0150360748327%
+
+total unresponsive seconds: 11%2017-07-22 18:53:02.628462
+vms: 3486867456
+old_vms: 3486867456
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 11%2017-07-22 18:53:03.632103
+vms: 3487391744
+old_vms: 3486867456
+diff_vms: 524288
+percent_vms: 0.0150338143371%
+
+total unresponsive seconds: 12%2017-07-22 18:53:04.635222
+vms: 3486867456
+old_vms: 3487391744
+diff_vms: -524288
+percent_vms: -0.0150360748327%
+
+total unresponsive seconds: 12%2017-07-22 18:53:05.637344
+vms: 3486867456
+old_vms: 3486867456
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 12%2017-07-22 18:53:06.642799
+vms: 3486867456
+old_vms: 3486867456
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 12%2017-07-22 18:53:07.647981
+vms: 3487182848
+old_vms: 3486867456
+diff_vms: 315392
+percent_vms: 0.00904432069517%
+
+total unresponsive seconds: 12%2017-07-22 18:53:08.653513
+vms: 3487178752
+old_vms: 3487182848
+diff_vms: -4096
+percent_vms: -0.000117458848293%
+
+total unresponsive seconds: 12%2017-07-22 18:53:09.654868
+vms: 3487170560
+old_vms: 3487178752
+diff_vms: -8192
+percent_vms: -0.00023491824845%
+
+total unresponsive seconds: 12%2017-07-22 18:53:10.656142
+vms: 3487186944
+old_vms: 3487170560
+diff_vms: 16384
+percent_vms: 0.000469834289446%
+
+total unresponsive seconds: 12%2017-07-22 18:53:11.656494
+vms: 3487186944
+old_vms: 3487186944
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 12%2017-07-22 18:53:12.656800
+vms: 3487186944
+old_vms: 3487186944
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 12%2017-07-22 18:53:13.660129
+vms: 3487186944
+old_vms: 3487186944
+diff_vms: 0
+percent_vms: 0.0%
+
+total unresponsive seconds: 12%2017-07-22 18:53:14.661806
+vms: 3483242496
+old_vms: 3487186944
+diff_vms: -3944448
+percent_vms: -0.113240694684%
+
+total unresponsive seconds: 12%2017-07-22 18:53:15.662315
+vms: 3483471872
+old_vms: 3483242496
+diff_vms: 229376
+percent_vms: 0.00658469505219%
+
+total unresponsive seconds: 12%2017-07-22 18:53:16.663942
+vms: 3438370816
+old_vms: 3483471872
+diff_vms: -45101056
+percent_vms: -1.31169842968%
+
+total unresponsive seconds: 12%2017-07-22 18:53:17.664852
+vms: 3433426944
+old_vms: 3438370816
+diff_vms: -4943872
+percent_vms: -0.143992345858%
+
+total unresponsive seconds: 12%2017-07-22 18:53:18.668406
+vms: 3416592384
+old_vms: 3433426944
+diff_vms: -16834560
+percent_vms: -0.492729541833%
+
+total unresponsive seconds: 12%2017-07-22 18:53:19.670708
+vms: 3404959744
+old_vms: 3416592384
+diff_vms: -11632640
+percent_vms: -0.341638106603%
+
+total unresponsive seconds: 12%2017-07-22 18:53:20.676525
+vms: 3375022080
+old_vms: 3404959744
+diff_vms: -29937664
+percent_vms: -0.887036093109%
+
+total unresponsive seconds: 12%

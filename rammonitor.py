@@ -9,14 +9,18 @@ log = open("log.log", "a")
 i = 0
 time_step = 1
 unresponsive = 0
+pid = 0
+for proc in psutil.process_iter():
+	if proc.name() == sys.argv[1]:
+		pid = proc.pid
 
 while (1):
-    process = psutil.Process(int(sys.argv[1]))
+    process = psutil.Process(pid)
     vms = process.memory_info().vms
     timing = datetime.datetime.now()
     diff_vms = vms - old_vms
     percent_vms = (float(diff_vms) / vms) * 100
-    if (percent_vms > 0.01 and i > 0)
+    if (percent_vms > 0.01 and i > 0):
         unresponsive += 1
     if (i % time_step == 0):
         print (timing)
